@@ -1,0 +1,42 @@
+Team not in playoffs: SDP
+
+
+Playoff teams with former SDP players, by number of SDP appearances:
+
+playoff_team  player_appearances
+        MIL                2963
+        NYY                1458
+        LAD                1426
+        OAK                 408
+        STL                 168
+        WSN                 109
+
+
+Appearances that current MIL players made for SDP: 2963
+Tm              Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Cory Spangenberg         1290                   2014                  2018
+SDP   Yasmani Grandal          777                   2012                  2014
+SDP     Drew Pomeranz          446                   2016                  2016
+SDP      Jordan Lyles          430                   2017                  2018
+SDP       Jay Jackson           20                   2015                  2015
+
+Appearances that current NYY players made for SDP: 1458
+Tm            Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Cameron Maybin         1458                   2011                  2014
+
+Appearances that current LAD players made for SDP: 1426
+Tm         Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Jedd Gyorko         1426                   2013                  2015
+
+Appearances that current OAK players made for SDP: 408
+Tm          Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Ryan Buchter          408                   2016                  2017
+
+Appearances that current STL players made for SDP: 168
+Tm           Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Miles Mikolas          144                   2012                  2012
+SDP     Tyler Webb           24                   2018                  2018
+
+Appearances that current WSN players made for SDP: 109
+Tm             Name  appearances  first_season_with_SDP  last_season_with_SDP
+SDP  Fernando Rodney          109                   2016                  2016

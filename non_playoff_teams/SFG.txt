@@ -1,0 +1,49 @@
+Team not in playoffs: SFG
+
+
+Playoff teams with former SFG players, by number of SFG appearances:
+
+playoff_team  player_appearances
+        MIN                2706
+        OAK                1049
+        WSN                1032
+        TBR                 962
+        NYY                 632
+        MIL                 626
+        ATL                 599
+
+
+Appearances that current MIN players made for SFG: 2706
+Tm            Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG     Sergio Romo         1737                   2008                  2016
+SFG       Sam Dyson          638                   2017                  2019
+SFG  Ehire Adrianza          331                   2013                  2016
+
+Appearances that current OAK players made for SFG: 1049
+Tm            Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG  Yusmeiro Petit         1049                   2012                  2015
+
+Appearances that current WSN players made for SFG: 1032
+Tm               Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG  Hunter Strickland          935                   2014                  2018
+SFG      Gerardo Parra           97                   2019                  2019
+
+Appearances that current TBR players made for SFG: 962
+Tm        Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG  Matt Duffy          962                   2014                  2016
+
+Appearances that current NYY players made for SFG: 632
+Tm          Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG  Cory Gearrin          632                   2015                  2018
+
+Appearances that current MIL players made for SFG: 626
+Tm           Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG  Drew Pomeranz          373                   2019                  2019
+SFG   Tyler Austin          147                   2019                  2019
+SFG      Ray Black          106                   2018                  2019
+
+Appearances that current ATL players made for SFG: 599
+Tm               Name  appearances  first_season_with_SFG  last_season_with_SFG
+SFG      Mark Melancon          499                   2017                  2019
+SFG        Adam Duvall           77                   2014                  2014
+SFG  Charlie Culberson           23                   2012                  2012

@@ -1,0 +1,41 @@
+Team not in playoffs: CHC
+
+
+Playoff teams with former CHC players, by number of CHC appearances:
+
+playoff_team  player_appearances
+        LAD                1579
+        HOU                1285
+        STL                1241
+        NYY                 164
+        OAK                 111
+        WSN                  50
+
+
+Appearances that current LAD players made for CHC: 1579
+Tm         Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC    Rich Hill         1534                   2005                  2008
+CHC  Dylan Floro           45                   2017                  2017
+
+Appearances that current HOU players made for CHC: 1285
+Tm              Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC     Hector Rondon         1215                   2013                  2017
+CHC         Joe Smith           57                   2016                  2016
+CHC  Martin Maldonado           13                   2019                  2019
+
+Appearances that current STL players made for CHC: 1241
+Tm           Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC  Dexter Fowler         1241                   2015                  2016
+
+Appearances that current NYY players made for CHC: 164
+Tm             Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC  Aroldis Chapman          102                   2016                  2016
+CHC      DJ LeMahieu           62                   2011                  2011
+
+Appearances that current OAK players made for CHC: 111
+Tm            Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC  Brett Anderson          111                   2017                  2017
+
+Appearances that current WSN players made for CHC: 50
+Tm             Name  appearances  first_season_with_CHC  last_season_with_CHC
+CHC  Fernando Rodney           50                   2015                  2015

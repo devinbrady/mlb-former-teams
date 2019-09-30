@@ -1,0 +1,35 @@
+Team not in playoffs: NYM
+
+
+Playoff teams with former NYM players, by number of NYM appearances:
+
+playoff_team  player_appearances
+        WSN                1515
+        TBR                1494
+        LAD                 886
+        ATL                 882
+        HOU                 476
+
+
+Appearances that current WSN players made for NYM: 1515
+Tm              Name  appearances  first_season_with_NYM  last_season_with_NYM
+NYM  Asdrubal Cabrera         1515                   2016                  2018
+
+Appearances that current TBR players made for NYM: 1494
+Tm             Name  appearances  first_season_with_NYM  last_season_with_NYM
+NYM  Travis d'Arnaud         1494                   2013                  2019
+
+Appearances that current LAD players made for NYM: 886
+Tm           Name  appearances  first_season_with_NYM  last_season_with_NYM
+NYM  Justin Turner          886                   2011                  2013
+
+Appearances that current ATL players made for NYM: 882
+Tm                Name  appearances  first_season_with_NYM  last_season_with_NYM
+NYM       Jerry Blevins          598                   2015                  2018
+NYM  Adeiny Hechavarria          151                   2019                  2019
+NYM     Anthony Swarzak          116                   2018                  2018
+NYM        Darren O'Day           17                   2009                  2009
+
+Appearances that current HOU players made for NYM: 476
+Tm       Name  appearances  first_season_with_NYM  last_season_with_NYM
+NYM  Joe Smith          476                   2007                  2008

@@ -1,0 +1,69 @@
+Team not in playoffs: SEA
+
+
+Playoff teams with former SEA players, by number of SEA appearances:
+
+playoff_team  player_appearances
+        NYY                3436
+        MIN                3254
+        TBR                3153
+        WSN                2122
+        MIL                1126
+        HOU                 469
+        STL                 326
+        LAD                 308
+        OAK                  87
+        ATL                  64
+
+
+Appearances that current NYY players made for SEA: 3436
+Tm               Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA       James Paxton         2402                   2013                  2018
+SEA          J.A. Happ          468                   2015                  2015
+SEA  Edwin Encarnacion          289                   2019                  2019
+SEA       Cory Gearrin          180                   2019                  2019
+SEA     Cameron Maybin           97                   2018                  2018
+
+Appearances that current MIN players made for SEA: 3254
+Tm            Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA     Nelson Cruz         2558                   2015                  2018
+SEA  Michael Pineda          696                   2011                  2011
+
+Appearances that current TBR players made for SEA: 3153
+Tm               Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA        Mike Zunino         2087                   2013                  2018
+SEA  Guillermo Heredia          870                   2016                  2018
+SEA       Emilio Pagan          196                   2017                  2017
+
+Appearances that current WSN players made for SEA: 2122
+Tm               Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA       Roenis Elias         1596                   2014                  2019
+SEA    Fernando Rodney          513                   2014                  2015
+SEA  Hunter Strickland           13                   2019                  2019
+
+Appearances that current MIL players made for SEA: 1126
+Tm           Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA      Ben Gamel          890                   2016                  2018
+SEA    Eric Thames          130                   2012                  2012
+SEA  David Freitas          106                   2018                  2018
+
+Appearances that current HOU players made for SEA: 469
+Tm        Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA  Wade Miley          469                   2016                  2016
+
+Appearances that current STL players made for SEA: 326
+Tm           Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA  Dominic Leone          326                   2014                  2015
+
+Appearances that current LAD players made for SEA: 308
+Tm               Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA       Chris Taylor          253                   2014                  2015
+SEA  Kristopher Negron           55                   2018                  2019
+
+Appearances that current OAK players made for SEA: 87
+Tm            Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA  Chris Herrmann           87                   2018                  2018
+
+Appearances that current ATL players made for SEA: 64
+Tm             Name  appearances  first_season_with_SEA  last_season_with_SEA
+SEA  Anthony Swarzak           64                   2019                  2019

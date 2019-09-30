@@ -1,0 +1,48 @@
+Team not in playoffs: COL
+
+
+Playoff teams with former COL players, by number of COL appearances:
+
+playoff_team  player_appearances
+        NYY                6283
+        STL                2635
+        MIL                1960
+        WSN                1249
+        ATL                 406
+        OAK                 195
+        HOU                  89
+
+
+Appearances that current NYY players made for COL: 6283
+Tm           Name  appearances  first_season_with_COL  last_season_with_COL
+COL    DJ LeMahieu         3737                   2012                  2018
+COL  Adam Ottavino         1652                   2012                  2018
+COL   Tommy Kahnle          440                   2014                  2015
+COL     David Hale          385                   2015                  2016
+COL  Mike Tauchman           69                   2017                  2018
+
+Appearances that current STL players made for COL: 2635
+Tm           Name  appearances  first_season_with_COL  last_season_with_COL
+COL  Dexter Fowler         2635                   2008                  2013
+
+Appearances that current MIL players made for COL: 1960
+Tm           Name  appearances  first_season_with_COL  last_season_with_COL
+COL   Jordan Lyles         1313                   2014                  2017
+COL  Drew Pomeranz          647                   2011                  2013
+
+Appearances that current WSN players made for COL: 1249
+Tm           Name  appearances  first_season_with_COL  last_season_with_COL
+COL  Gerardo Parra         1249                   2016                  2018
+
+Appearances that current ATL players made for COL: 406
+Tm               Name  appearances  first_season_with_COL  last_season_with_COL
+COL  Charlie Culberson          337                   2013                  2014
+COL       Chris Martin           69                   2014                  2014
+
+Appearances that current OAK players made for COL: 195
+Tm            Name  appearances  first_season_with_COL  last_season_with_COL
+COL  Brett Anderson          195                   2014                  2014
+
+Appearances that current HOU players made for COL: 89
+Tm         Name  appearances  first_season_with_COL  last_season_with_COL
+COL  Will Harris           89                   2012                  2012

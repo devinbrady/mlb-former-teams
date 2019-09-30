@@ -1,0 +1,58 @@
+Team not in playoffs: MIA
+
+
+Playoff teams with former MIA players, by number of MIA appearances:
+
+playoff_team  player_appearances
+        NYY                3410
+        MIL                2812
+        STL                2684
+        ATL                2408
+        TBR                1286
+        WSN                 963
+        MIN                 581
+        HOU                 169
+        LAD                  45
+
+
+Appearances that current NYY players made for MIA: 3410
+Tm               Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Giancarlo Stanton         3123                   2012                  2017
+MIA     Cameron Maybin          287                   2018                  2018
+
+Appearances that current MIL players made for MIA: 2812
+Tm              Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Christian Yelich         2812                   2013                  2017
+
+Appearances that current STL players made for MIA: 2684
+Tm           Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Marcell Ozuna         2684                   2013                  2017
+
+Appearances that current ATL players made for MIA: 2408
+Tm                Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Adeiny Hechavarria         2265                   2013                  2017
+MIA       Rafael Ortega          143                   2018                  2018
+
+Appearances that current TBR players made for MIA: 1286
+Tm             Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Trevor Richards         1100                   2018                  2019
+MIA    Nick Anderson          186                   2019                  2019
+
+Appearances that current WSN players made for MIA: 963
+Tm             Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA   Anibal Sanchez          539                   2012                  2012
+MIA      Javy Guerra          250                   2017                  2018
+MIA  Fernando Rodney          174                   2016                  2016
+
+Appearances that current MIN players made for MIA: 581
+Tm         Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA    Sam Dyson          425                   2013                  2015
+MIA  Sergio Romo          156                   2019                  2019
+
+Appearances that current HOU players made for MIA: 169
+Tm            Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Jake Marisnick          169                   2013                  2014
+
+Appearances that current LAD players made for MIA: 45
+Tm               Name  appearances  first_season_with_MIA  last_season_with_MIA
+MIA  Enrique Hernandez           45                   2014                  2014

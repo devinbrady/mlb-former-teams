@@ -1,0 +1,50 @@
+Team not in playoffs: CHW
+
+
+Playoff teams with former CHW players, by number of CHW appearances:
+
+playoff_team  player_appearances
+        TBR                2358
+        WSN                2284
+        ATL                1581
+        OAK                 944
+        MIL                 404
+        NYY                 260
+        MIN                  71
+
+
+Appearances that current TBR players made for CHW: 2358
+Tm            Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW  Avisail Garcia         2358                   2013                  2018
+
+Appearances that current WSN players made for CHW: 2284
+Tm           Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW     Adam Eaton         1933                   2014                  2016
+CHW    Javy Guerra          198                   2014                  2014
+CHW  Daniel Hudson          153                   2009                  2010
+
+Appearances that current ATL players made for CHW: 1581
+Tm             Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW    Tyler Flowers         1395                   2009                  2015
+CHW  Anthony Swarzak          186                   2017                  2017
+
+Appearances that current OAK players made for CHW: 944
+Tm            Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW   Marcus Semien          326                   2013                  2014
+CHW    Josh Phegley          251                   2013                  2014
+CHW    Joakim Soria          164                   2018                  2018
+CHW   Chris Bassitt          137                   2014                  2014
+CHW  Frankie Montas           66                   2015                  2015
+
+Appearances that current MIL players made for CHW: 404
+Tm           Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW    Matt Albers          386                   2015                  2016
+CHW  Junior Guerra           18                   2015                  2015
+
+Appearances that current NYY players made for CHW: 260
+Tm          Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW  Tommy Kahnle          260                   2016                  2017
+
+Appearances that current MIN players made for CHW: 71
+Tm          Name  appearances  first_season_with_CHW  last_season_with_CHW
+CHW  Ryan LaMarre           71                   2018                  2018

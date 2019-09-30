@@ -1,0 +1,51 @@
+Team not in playoffs: DET
+
+
+Playoff teams with former DET players, by number of DET appearances:
+
+playoff_team  player_appearances
+        HOU               10393
+        WSN                9008
+        ATL                1619
+        OAK                 716
+        NYY                 444
+        STL                 360
+        TBR                 139
+        MIL                 105
+
+
+Appearances that current HOU players made for DET: 10393
+Tm              Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Justin Verlander        10393                   2005                  2017
+
+Appearances that current WSN players made for DET: 9008
+Tm             Name  appearances  first_season_with_DET  last_season_with_DET
+DET     Max Scherzer         4160                   2010                  2014
+DET   Anibal Sanchez         3386                   2012                  2017
+DET  Fernando Rodney         1462                   2002                  2009
+
+Appearances that current ATL players made for DET: 1619
+Tm          Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Shane Greene         1342                   2015                  2019
+DET    Matt Joyce          277                   2008                  2008
+
+Appearances that current OAK players made for DET: 716
+Tm          Name  appearances  first_season_with_DET  last_season_with_DET
+DET    Mike Fiers          502                   2018                  2018
+DET  Joakim Soria          214                   2014                  2015
+
+Appearances that current NYY players made for DET: 444
+Tm            Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Cameron Maybin          444                   2007                  2016
+
+Appearances that current STL players made for DET: 360
+Tm           Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Andrew Miller          360                   2006                  2007
+
+Appearances that current TBR players made for DET: 139
+Tm            Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Avisail Garcia          139                   2012                  2013
+
+Appearances that current MIL players made for DET: 105
+Tm          Name  appearances  first_season_with_DET  last_season_with_DET
+DET  Hernan Perez          105                   2013                  2015

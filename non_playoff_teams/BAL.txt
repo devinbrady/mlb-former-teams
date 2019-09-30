@@ -1,0 +1,58 @@
+Team not in playoffs: BAL
+
+
+Playoff teams with former BAL players, by number of BAL appearances:
+
+playoff_team  player_appearances
+        ATL                7458
+        STL                3540
+        MIN                3184
+        NYY                2160
+        HOU                 970
+        MIL                 846
+        TBR                 385
+        LAD                 297
+        WSN                 238
+
+
+Appearances that current ATL players made for BAL: 7458
+Tm           Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL  Nick Markakis         5966                   2006                  2014
+BAL   Darren O'Day         1492                   2012                  2018
+
+Appearances that current STL players made for BAL: 3540
+Tm           Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL   Matt Wieters         3468                   2009                  2016
+BAL  Andrew Miller           72                   2014                  2014
+
+Appearances that current MIN players made for BAL: 3184
+Tm             Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL  Jonathan Schoop         2506                   2013                  2018
+BAL      Nelson Cruz          678                   2014                  2014
+
+Appearances that current NYY players made for BAL: 2160
+Tm               Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL       Zack Britton         2134                   2011                  2018
+BAL  Nestor Cortes Jr.           26                   2018                  2018
+
+Appearances that current HOU players made for BAL: 970
+Tm        Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL  Wade Miley          970                   2016                  2017
+
+Appearances that current MIL players made for BAL: 846
+Tm         Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL  Matt Albers          846                   2008                  2010
+
+Appearances that current TBR players made for BAL: 385
+Tm          Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL      Chaz Roe          221                   2015                  2016
+BAL  Oliver Drake          164                   2015                  2017
+
+Appearances that current LAD players made for BAL: 297
+Tm           Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL      Rich Hill          275                   2009                  2009
+BAL  Justin Turner           22                   2009                  2009
+
+Appearances that current WSN players made for BAL: 238
+Tm           Name  appearances  first_season_with_BAL  last_season_with_BAL
+BAL  Gerardo Parra          238                   2015                  2015

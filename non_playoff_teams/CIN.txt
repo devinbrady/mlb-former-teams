@@ -1,0 +1,42 @@
+Team not in playoffs: CIN
+
+
+Playoff teams with former CIN players, by number of CIN appearances:
+
+playoff_team  player_appearances
+        OAK                6259
+        ATL                4433
+        NYY                3301
+        LAD                 424
+        WSN                  45
+        MIN                  26
+
+
+Appearances that current OAK players made for CIN: 6259
+Tm          Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Homer Bailey         5741                   2007                  2018
+CIN  Tanner Roark          518                   2019                  2019
+
+Appearances that current ATL players made for CIN: 4433
+Tm            Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Billy Hamilton         2736                   2013                  2018
+CIN     Adam Duvall         1697                   2015                  2018
+
+Appearances that current NYY players made for CIN: 3301
+Tm               Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Edwin Encarnacion         2008                   2005                  2009
+CIN    Aroldis Chapman         1272                   2010                  2015
+CIN     Didi Gregorius           21                   2012                  2012
+
+Appearances that current LAD players made for CIN: 424
+Tm               Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Kristopher Negron          265                   2014                  2015
+CIN        Dylan Floro          159                   2018                  2018
+
+Appearances that current WSN players made for CIN: 45
+Tm           Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Tanner Rainey           45                   2018                  2018
+
+Appearances that current MIN players made for CIN: 26
+Tm          Name  appearances  first_season_with_CIN  last_season_with_CIN
+CIN  Ryan LaMarre           26                   2015                  2015

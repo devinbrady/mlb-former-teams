@@ -1,0 +1,59 @@
+Team not in playoffs: LAA
+
+
+Playoff teams with former LAA players, by number of LAA appearances:
+
+playoff_team  player_appearances
+        WSN                4907
+        HOU                1841
+        MIN                1475
+        LAD                 981
+        ATL                 680
+        NYY                 387
+        OAK                 354
+        TBR                 169
+        STL                  12
+
+
+Appearances that current WSN players made for LAA: 4907
+Tm             Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA   Howie Kendrick         4419                   2006                  2014
+LAA  Fernando Rodney          458                   2010                  2011
+LAA      Javy Guerra           30                   2016                  2016
+
+Appearances that current HOU players made for LAA: 1841
+Tm              Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  Martin Maldonado          761                   2017                  2018
+LAA         Joe Smith          716                   2014                  2016
+LAA      Zack Greinke          364                   2012                  2012
+
+Appearances that current MIN players made for LAA: 1475
+Tm       Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  C.J. Cron         1475                   2014                  2017
+
+Appearances that current LAD players made for LAA: 981
+Tm          Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  David Freese          981                   2014                  2015
+
+Appearances that current ATL players made for LAA: 680
+Tm           Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA     Matt Joyce          284                   2015                  2015
+LAA  Rafael Ortega          202                   2016                  2016
+LAA   Darren O'Day          194                   2008                  2008
+
+Appearances that current NYY players made for LAA: 387
+Tm            Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  Cameron Maybin          387                   2017                  2017
+
+Appearances that current OAK players made for LAA: 354
+Tm            Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  Yusmeiro Petit          354                   2017                  2017
+
+Appearances that current TBR players made for LAA: 169
+Tm          Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA   Ji-Man Choi          129                   2016                  2016
+LAA  Oliver Drake           40                   2018                  2018
+
+Appearances that current STL players made for LAA: 12
+Tm        Name  appearances  first_season_with_LAA  last_season_with_LAA
+LAA  Joe Hudson           12                   2018                  2018

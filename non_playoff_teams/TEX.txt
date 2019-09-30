@@ -1,0 +1,58 @@
+Team not in playoffs: TEX
+
+
+Playoff teams with former TEX players, by number of TEX appearances:
+
+playoff_team  player_appearances
+        MIN                6985
+        OAK                2069
+        HOU                1546
+        MIL                 959
+        ATL                 943
+        WSN                 368
+        STL                 255
+        NYY                  82
+        TBR                  41
+
+
+Appearances that current MIN players made for TEX: 6985
+Tm          Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Martin Perez         3315                   2012                  2018
+TEX   Nelson Cruz         3175                   2006                  2013
+TEX     Sam Dyson          495                   2015                  2017
+
+Appearances that current OAK players made for TEX: 2069
+Tm              Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Jurickson Profar         1312                   2012                  2018
+TEX      Jake Diekman          523                   2015                  2018
+TEX      Joakim Soria          234                   2013                  2014
+
+Appearances that current HOU players made for TEX: 1546
+Tm               Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Robinson Chirinos         1546                   2013                  2018
+
+Appearances that current MIL players made for TEX: 959
+Tm          Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Alex Claudio          959                   2014                  2018
+
+Appearances that current ATL players made for TEX: 943
+Tm          Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Darren O'Day          530                   2009                  2011
+TEX  Chris Martin          324                   2018                  2019
+TEX  Luke Jackson           89                   2015                  2016
+
+Appearances that current WSN players made for TEX: 368
+Tm              Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Asdrubal Cabrera          368                   2019                  2019
+
+Appearances that current STL players made for TEX: 255
+Tm           Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Miles Mikolas          255                   2014                  2014
+
+Appearances that current NYY players made for TEX: 82
+Tm          Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Cory Gearrin           82                   2018                  2018
+
+Appearances that current TBR players made for TEX: 41
+Tm             Name  appearances  first_season_with_TEX  last_season_with_TEX
+TEX  Peter Fairbanks           41                   2019                  2019

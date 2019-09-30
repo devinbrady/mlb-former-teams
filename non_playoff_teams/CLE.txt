@@ -1,0 +1,55 @@
+Team not in playoffs: CLE
+
+
+Playoff teams with former CLE players, by number of CLE appearances:
+
+playoff_team  player_appearances
+        NYY                7318
+        WSN                6182
+        HOU                5669
+        ATL                3864
+        STL                 501
+        TBR                 379
+        MIL                 262
+        LAD                 182
+
+
+Appearances that current NYY players made for CLE: 7318
+Tm               Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE        CC Sabathia         5617                   2002                  2008
+CLE  Edwin Encarnacion         1248                   2017                  2018
+CLE        Gio Urshela          453                   2015                  2017
+
+Appearances that current WSN players made for CLE: 6182
+Tm              Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE  Asdrubal Cabrera         3871                   2007                  2014
+CLE         Yan Gomes         2311                   2013                  2018
+
+Appearances that current HOU players made for CLE: 5669
+Tm              Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE  Michael Brantley         4483                   2009                  2018
+CLE         Joe Smith         1186                   2009                  2017
+
+Appearances that current ATL players made for CLE: 3864
+Tm             Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE      Josh Tomlin         3743                   2010                  2018
+CLE  Anthony Swarzak           61                   2015                  2015
+CLE   Josh Donaldson           60                   2018                  2018
+
+Appearances that current STL players made for CLE: 501
+Tm           Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE  Andrew Miller          501                   2016                  2018
+
+Appearances that current TBR players made for CLE: 379
+Tm           Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE     Yandy Diaz          299                   2017                  2018
+CLE  Jesus Aguilar           58                   2014                  2015
+CLE   Oliver Drake           22                   2018                  2018
+
+Appearances that current MIL players made for CLE: 262
+Tm         Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE  Matt Albers          262                   2013                  2013
+
+Appearances that current LAD players made for CLE: 182
+Tm       Name  appearances  first_season_with_CLE  last_season_with_CLE
+CLE  Rich Hill          182                   2013                  2013

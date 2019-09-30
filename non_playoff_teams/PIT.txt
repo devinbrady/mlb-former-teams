@@ -1,0 +1,55 @@
+Team not in playoffs: PIT
+
+
+Playoff teams with former PIT players, by number of PIT appearances:
+
+playoff_team  player_appearances
+        TBR                4623
+        HOU                3497
+        ATL                3086
+        LAD                2319
+        MIL                 387
+        NYY                 294
+        WSN                 271
+        OAK                 107
+
+
+Appearances that current TBR players made for PIT: 4623
+Tm            Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Charlie Morton         3782                   2009                  2015
+PIT   Tyler Glasnow          676                   2016                  2018
+PIT  Austin Meadows          165                   2018                  2018
+
+Appearances that current HOU players made for PIT: 3497
+Tm         Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Gerrit Cole         3497                   2013                  2017
+
+Appearances that current ATL players made for PIT: 3086
+Tm                Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Francisco Cervelli         1734                   2015                  2019
+PIT       Mark Melancon         1012                   2013                  2016
+PIT          Matt Joyce          293                   2016                  2016
+PIT  Adeiny Hechavarria           47                   2018                  2018
+
+Appearances that current LAD players made for PIT: 2319
+Tm            Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT    David Freese         1260                   2016                  2018
+PIT  Russell Martin          966                   2013                  2014
+PIT    Casey Sadler           93                   2014                  2018
+
+Appearances that current MIL players made for PIT: 387
+Tm          Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Jordan Lyles          387                   2019                  2019
+
+Appearances that current NYY players made for PIT: 294
+Tm         Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT    J.A. Happ          274                   2015                  2015
+PIT  Tyler Lyons           20                   2019                  2019
+
+Appearances that current WSN players made for PIT: 271
+Tm           Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Daniel Hudson          271                   2017                  2017
+
+Appearances that current OAK players made for PIT: 107
+Tm          Name  appearances  first_season_with_PIT  last_season_with_PIT
+PIT  Joakim Soria          107                   2015                  2015

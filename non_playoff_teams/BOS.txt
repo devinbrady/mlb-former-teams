@@ -1,0 +1,46 @@
+Team not in playoffs: BOS
+
+
+Playoff teams with former BOS players, by number of BOS appearances:
+
+playoff_team  player_appearances
+        MIL                2600
+        LAD                1794
+        HOU                1234
+        STL                 784
+        ATL                 194
+        WSN                  41
+        TBR                  34
+
+
+Appearances that current MIL players made for BOS: 2600
+Tm           Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Drew Pomeranz         1376                   2016                  2018
+BOS    Travis Shaw          778                   2015                  2016
+BOS    Matt Albers          446                   2011                  2012
+
+Appearances that current LAD players made for BOS: 1794
+Tm       Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Joe Kelly         1557                   2014                  2018
+BOS  Rich Hill          237                   2010                  2015
+
+Appearances that current HOU players made for BOS: 1234
+Tm          Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS    Wade Miley          831                   2015                  2015
+BOS  Josh Reddick          403                   2009                  2011
+
+Appearances that current STL players made for BOS: 784
+Tm           Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Andrew Miller          784                   2011                  2014
+
+Appearances that current ATL players made for BOS: 194
+Tm           Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Mark Melancon          194                   2012                  2012
+
+Appearances that current WSN players made for BOS: 41
+Tm          Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Roenis Elias           41                   2016                  2016
+
+Appearances that current TBR players made for BOS: 34
+Tm         Name  appearances  first_season_with_BOS  last_season_with_BOS
+BOS  Jalen Beeks           34                   2018                  2018

@@ -1,0 +1,39 @@
+Team not in playoffs: KCR
+
+
+Playoff teams with former KCR players, by number of KCR appearances:
+
+playoff_team  player_appearances
+        MIL                6644
+        HOU                4911
+        OAK                2573
+        ATL                 304
+        MIN                  34
+
+
+Appearances that current MIL players made for KCR: 6644
+Tm            Name  appearances  first_season_with_KCR  last_season_with_KCR
+KCR  Mike Moustakas         3735                   2011                  2018
+KCR    Lorenzo Cain         2894                   2011                  2017
+KCR      Manny Pina           15                   2011                  2011
+
+Appearances that current HOU players made for KCR: 4911
+Tm              Name  appearances  first_season_with_KCR  last_season_with_KCR
+KCR      Zack Greinke         4648                   2004                  2010
+KCR  Martin Maldonado          263                   2019                  2019
+
+Appearances that current OAK players made for KCR: 2573
+Tm           Name  appearances  first_season_with_KCR  last_season_with_KCR
+KCR   Joakim Soria         1803                   2007                  2017
+KCR   Homer Bailey          389                   2019                  2019
+KCR   Jake Diekman          188                   2019                  2019
+KCR   Ryan Buchter          107                   2017                  2017
+KCR  Liam Hendriks           86                   2014                  2014
+
+Appearances that current ATL players made for KCR: 304
+Tm            Name  appearances  first_season_with_KCR  last_season_with_KCR
+KCR  Billy Hamilton          304                   2019                  2019
+
+Appearances that current MIN players made for KCR: 34
+Tm           Name  appearances  first_season_with_KCR  last_season_with_KCR
+KCR  Jake Odorizzi           34                   2012                  2012

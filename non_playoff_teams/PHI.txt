@@ -1,0 +1,30 @@
+Team not in playoffs: PHI
+
+
+Playoff teams with former PHI players, by number of PHI appearances:
+
+playoff_team  player_appearances
+        NYY                 965
+        OAK                 783
+        TBR                 382
+        WSN                 341
+
+
+Appearances that current NYY players made for PHI: 965
+Tm       Name  appearances  first_season_with_PHI  last_season_with_PHI
+PHI  J.A. Happ          965                   2007                  2010
+
+Appearances that current OAK players made for PHI: 783
+Tm          Name  appearances  first_season_with_PHI  last_season_with_PHI
+PHI  Jake Diekman          783                   2012                  2015
+
+Appearances that current TBR players made for PHI: 382
+Tm            Name  appearances  first_season_with_PHI  last_season_with_PHI
+PHI     Hoby Milner          164                   2017                  2018
+PHI   Ricardo Pinto          147                   2017                  2017
+PHI  Charlie Morton           71                   2016                  2016
+
+Appearances that current WSN players made for PHI: 341
+Tm              Name  appearances  first_season_with_PHI  last_season_with_PHI
+PHI  Asdrubal Cabrera          185                   2018                  2018
+PHI    Howie Kendrick          156                   2017                  2017
